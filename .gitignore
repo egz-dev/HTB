@@ -1,2 +1,36 @@
 .git
 .obsidian
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment & secrets
+.env
+*.ovpn
+
+# Compiled / binaries
+*.exe
+*.dll
+*.so
+*.elf
+*.o
+*.class
+
+# Archives (downloaded tools, etc.)
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
