@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a57280c76b9e3727",
+        "id": "f848e641a56868bd",
         "type": "tabs",
         "children": [
           {
-            "id": "f03df66b0510e063",
+            "id": "e68e9736592d02df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,8 +191,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f03df66b0510e063",
+  "active": "e68e9736592d02df",
   "lastOpenFiles": [
+    "Untitled.md",
     "Welcome.md",
     "Documentation",
     "Machines",
