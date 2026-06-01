@@ -1,4 +1,3 @@
-# Checklist para Pentesting CTF
 
 ## Mapeo de la Red
 
