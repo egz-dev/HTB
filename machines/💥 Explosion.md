@@ -85,7 +85,7 @@ Password:                    <-- just press Enter
 The connection succeeds — the Administrator account has **no password set**, granting full GUI access to the desktop. Open `flag.txt` from the Administrator's desktop to capture the flag.
 
 
-![[../assets/20260602_RDP.png]]
+![Imagen de acceso mediante RDP](../assets/20260602_RDP.png)
 
 
 > 💡 **Why this works:** Windows allows accounts with blank passwords by default in certain configurations (e.g., freshly provisioned VMs, misconfigured group policy). RDP with a blank password is explicitly permitted unless the Group Policy *"Limit local account use of blank passwords to console logon only"* is enforced.
