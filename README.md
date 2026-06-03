@@ -33,12 +33,13 @@ Each machine write-up follows a consistent structure:
 
 ## Contents
 
-| Machine   | OS      | Difficulty | Write-up          |
-| --------- | ------- | ---------- | ----------------- |
-| Fawn      | Linux   | Very Easy  | [[🦌 Fawn]]       |
-| Dancing   | Windows | Very Easy  | [[🩰 Dancing]]    |
-| Redeemer  | Linux   | Very Easy  | [[💾 Redeemer]]   |
-| Explosion | Windows | Very Easy  | [[💥 Explosion]]  |
+| Machine     | OS      | Difficulty | Write-up           |
+| ----------- | ------- | ---------- | ------------------ |
+| Fawn        | Linux   | Very Easy  | [[🦌 Fawn]]        |
+| Dancing     | Windows | Very Easy  | [[🩰 Dancing]]     |
+| Redeemer    | Linux   | Very Easy  | [[💾 Redeemer]]    |
+| Explosion   | Windows | Very Easy  | [[💥 Explosion]]   |
+| Preignition | Linux   | Very Easy  | [[🧨 Preignition]] |
 
 *(Table to be filled as machines are completed.)*
 

@@ -1,4 +1,3 @@
-
 ## Mapeo de la Red
 
 - Identificación de Hosts Activos
@@ -70,16 +69,16 @@ curl -s -D - http://IP -o /dev/null
 
 ```bash
 # gobuster
-gobuster dir -u http://IP -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,txt,html,bak,zip,tar,gz -t 50
+gobuster dir -u http://IP -w /usr/share/seclists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -x php,txt,html,bak,zip,tar,gz -t 50
 
 # ffuf (más rápido)
-ffuf -u http://IP/FUZZ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -e .php,.txt,.html,.bak
+ffuf -u http://IP/FUZZ -w /usr/share/seclists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -e .php,.txt,.html,.bak
 
 # Feroxbuster (recursivo, rápido)
-feroxbuster -u http://IP -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,txt,html
+feroxbuster -u http://IP -w /usr/share/seclists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -x php,txt,html
 
 # Dirb (simple)
-dirb http://IP /usr/share/wordlists/dirb/common.txt
+dirb http://IP /usr/share/seclists/Discovery/Web-Content/common.txt
 ```
 
 ### Archivos y Rutas Prioritarias
@@ -106,9 +105,9 @@ dirb http://IP /usr/share/wordlists/dirb/common.txt
 ### Virtual Host Enumeration (vhost)
 
 ```bash
-gobuster vhost -u http://IP -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt
+gobuster vhost -u http://IP -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
 
-ffuf -u http://IP -H "Host: FUZZ.target.htb" -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt -fw <size>
+ffuf -u http://IP -H "Host: FUZZ.target.htb" -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -fw <size>
 ```
 
 ### Fingerprinting de CMS
