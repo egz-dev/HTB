@@ -1,7 +1,8 @@
 ---
-IP:
+IP: 10.129.10.187
 OS: Linux
 Level: Very Easy
+Skills:
 ---
 # 🧨 Preignition
 
