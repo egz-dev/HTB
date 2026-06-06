@@ -1,5 +1,4 @@
 ---
-IP: 10.129.12.50
 OS: Linux
 Level: Very Easy
 Skills: SQL Injection, Gobuster

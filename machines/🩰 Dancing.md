@@ -1,8 +1,7 @@
 ---
-IP: 10.129.1.12
 OS: Windows
 Level: Very Easy
-Skills:
+Skills: SMB, Null Session, Anonymous Access
 ---
 # 🩰 Dancing
 

@@ -1,8 +1,7 @@
 ---
-IP: 10.129.10.7
 OS: Windows
 Level: Very Easy
-Skills:
+Skills: RDP, xfreerdp, Null Session
 ---
 # 💥 Explosion
 

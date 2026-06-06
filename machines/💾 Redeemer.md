@@ -1,8 +1,7 @@
 ---
-IP: 10.129.136.187
 OS: Linux
 Level: Very Easy
-Skills:
+Skills: Redis, Database Enumeration
 ---
 # 💾 Redeemer
 

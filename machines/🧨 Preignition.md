@@ -1,8 +1,7 @@
 ---
-IP: 10.129.10.187
 OS: Linux
 Level: Very Easy
-Skills:
+Skills: Gobuster, Default Credentials, Web Enumeration
 ---
 # 🧨 Preignition
 

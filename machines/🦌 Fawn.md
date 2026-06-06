@@ -1,8 +1,7 @@
 ---
-IP: 10.129.21.178
 OS: Linux
 Level: Very Easy
-Skills:
+Skills: FTP, Anonymous Access
 ---
 # 🦌 Fawn
 

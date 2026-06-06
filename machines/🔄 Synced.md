@@ -1,8 +1,7 @@
 ---
-IP: 10.129.11.145
 OS: Linux
 Level: Very Easy
-Skills:
+Skills: Rsync
 ---
 # 🔄 Synced
 

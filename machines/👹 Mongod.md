@@ -1,8 +1,7 @@
 ---
-IP: 10.129.11.69
 OS: Linux
 Level: Very Easy
-Skills:
+Skills: MongoDB, NoSQL, Database Enumeration
 ---
 # 👹 Mongod
 
