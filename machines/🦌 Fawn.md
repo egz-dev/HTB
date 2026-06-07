@@ -85,3 +85,8 @@ The flag is now saved locally as `flag.txt`.
 - **Anonymous FTP** is a classic misconfiguration — always check if `ftp-anon` is enabled
 - **vsftpd** reports its version via nmap, making version-based exploit identification easy
 - A single open port was all it took — minimal attack surface, maximum impact
+
+## 🔗 Related
+
+- [[🗃️ FTP]] — FTP protocol guide
+- [[🐊 Crocodile]] — Another machine using anonymous FTP + credential reuse

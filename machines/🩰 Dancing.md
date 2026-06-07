@@ -139,3 +139,9 @@ The flag is retrieved from `James.P\flag.txt`. The `worknotes.txt` in `Amy.J` is
 - **Enumerate all user directories** inside accessible shares — the flag was a single `get` away in `James.P`
 - Default shares (ADMIN$, C$, IPC$) require authentication — always look for custom shares like `WorkShares`
 - No privilege escalation was needed — anonymous read access to the share was the entire attack surface
+
+## 🔗 Related
+
+- [[📂 SMB]] — SMB null sessions & share enumeration
+- [[🖥️ WinRM]] — Windows Remote Management shell
+- [[💥 Explosion]] — Another Windows box with RDP + WinRM

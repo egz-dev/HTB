@@ -149,3 +149,9 @@ This iterates over every database and every collection, printing all documents a
 - **SSH on port 22 was a rabbit hole** — no credentials were found in the database that could have been reused for SSH access; the flag came entirely from MongoDB
 - **Nmap can help confirm your findings** — `nmap --script mongodb-databases -p27017 <IP>` dumps all database names without even connecting interactively
 - No privilege escalation was needed — anonymous MongoDB access exposed the flag directly with no further exploitation required
+
+## 🔗 Related
+
+- [[🍃 MongoDB]] — MongoDB enumeration & NoSQL injection
+- [[💾 Redeemer]] — Another database enumeration box
+- [[🐬 Sequel]] — MySQL database enumeration

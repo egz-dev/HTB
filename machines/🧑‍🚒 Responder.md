@@ -182,3 +182,12 @@ WINRM       10.129.12.192   5985   RESPONDER        03/10/2022  05:50 AM        
 - **Virtual host routing matters** — The initial page showed nothing until we added `unika.htb` to `/etc/hosts`. Always test virtual host routing when a web server returns empty or default pages.
 - **WinRM is a first-class shell** — When port 5985 is open and you have credentials, NetExec gives you command execution with the `-x` flag and the `(Pwn3d!)` tag confirms admin access instantly. It's often faster and stealthier than RDP or SMB-based shells.
 - **LFI on Windows ≠ LFI on Linux** — Windows PHP servers don't have `/etc/passwd`, but UNC path inclusion and log poisoning are equally powerful. Adapt your attack chain to the OS.
+
+## 🔗 Related
+
+- [[💉 LFI & RFI]] — LFI/RFI exploitation & UNC path tricks
+- [[🔐 NTLM]] — NTLM hash capture & relay with Responder
+- [[🔧 John the Ripper]] — Cracking NTLMv2 hashes
+- [[🖥️ WinRM]] — Windows Remote Management shell with NetExec
+- [[🩰 Dancing]] — Another Windows box with SMB + WinRM
+- [[💥 Explosion]] — Another Windows box exposing WinRM + RDP

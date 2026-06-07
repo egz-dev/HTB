@@ -99,3 +99,9 @@ The connection succeeds — the Administrator account has **no password set**, g
 - The flag is on the Administrator's desktop — simply open the file once the RDP session is established
 - No privilege escalation was needed — Administrator with a blank password is the root/user privilege all in one
 
+## 🔗 Related
+
+- [[🖥️ xfreerdp]] — RDP client & pass-the-hash
+- [[🖥️ WinRM]] — Windows Remote Management shell
+- [[🩰 Dancing]] — Another Windows box with SMB + WinRM
+

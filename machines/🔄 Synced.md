@@ -113,3 +113,7 @@ PORT    STATE SERVICE
 - **Anonymous access** is the critical misconfiguration — no `auth users` in `rsyncd.conf` means anyone can read (and potentially write) files
 - **Single-port boxes are common in Starting Point** — don't overthink it; the vulnerability is often in the only service exposed
 - **No privilege escalation was needed** — anonymous rsync read access exposed the flag directly with no further exploitation required
+
+## 🔗 Related
+
+- [[🔄 Rsync]] — Rsync protocol enumeration
