@@ -1,3 +1,7 @@
+---
+tags: [scanning]
+---
+
 > **Nmap** (Network Mapper) es la herramienta estándar de escaneo de puertos y descubrimiento de red. Es lo primero que ejecutas en cada máquina HTB y CTF. Esta guía cubre lo que hemos practicado en los 11 writeups.
 
 ---
@@ -128,7 +132,7 @@ nmap --script redis-info -p6379 10.129.1.10
 
 **Machines:** [[🦌 Fawn]], [[🩰 Dancing]], [[💾 Redeemer]], [[💥 Explosion]], [[🧨 Preignition]], [[👹 Mongod]], [[🔄 Synced]], [[📅 Appointment]], [[🐬 Sequel]], [[🐊 Crocodile]], [[🧑‍🚒 Responder]]
 
-**Guides:** [[✅ Checklist CTF]]
+**Guides:**
 
 ---
 

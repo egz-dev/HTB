@@ -1,7 +1,8 @@
 ---
 OS: Linux
 Level: Very Easy
-Skills: MongoDB, NoSQL, Database Enumeration
+Skills: MongoDB
+tags: [linux, database, mongodb]
 ---
 # 👹 Mongod
 

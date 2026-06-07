@@ -1,3 +1,7 @@
+---
+tags: [database, mysql]
+---
+
 > **MySQL / MariaDB** es una base de datos relacional que corre en **puerto 3306**. En CTFs, la mala configuración más común es acceso root sin contraseña — permitiendo enumeración completa de la base de datos. Esta guía cubre lo que hemos practicado.
 
 ---

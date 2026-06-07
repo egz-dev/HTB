@@ -1,7 +1,8 @@
 ---
 OS: Windows
 Level: Very Easy
-Skills: RDP, xfreerdp, Null Session
+Skills: xfreerdp
+tags: [windows, rdp]
 ---
 # 💥 Explosion
 

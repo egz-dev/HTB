@@ -1,3 +1,7 @@
+---
+tags: [smb, windows]
+---
+
 > **SMB** (Server Message Block) es un protocolo de compartición de archivos en red usado principalmente por Windows. Corre en **puerto 445** (SMB moderno sobre TCP) y **puerto 139** (NetBIOS legacy). Esta guía cubre lo que hemos practicado.
 
 ---

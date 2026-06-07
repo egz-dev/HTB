@@ -1,3 +1,7 @@
+---
+tags: [database, redis]
+---
+
 > **Redis** (Remote Dictionary Server) es un almacén clave-valor en memoria que corre en **puerto 6379**. Por defecto no tiene autenticación, lo que lo convierte en un objetivo de alto valor para exfiltración de datos en CTFs. Esta guía cubre lo que hemos practicado.
 
 ---

@@ -1,7 +1,8 @@
 ---
 OS: Linux
 Level: Very Easy
-Skills: MySQL, MariaDB, Database Enumeration
+Skills: MySQL
+tags: [linux, database, mysql]
 ---
 # 🐬 Sequel
 

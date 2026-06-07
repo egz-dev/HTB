@@ -1,7 +1,8 @@
 ---
 OS: Linux
 Level: Very Easy
-Skills: FTP, Anonymous Access, Gobuster, Default Credentials, Sensitive Data Exposure, Web Enumeration
+Skills: FTP, Gobuster
+tags: [linux, ftp, web]
 ---
 # 🐊 Crocodile
 

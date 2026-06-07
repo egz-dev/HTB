@@ -1,7 +1,8 @@
 ---
 OS: Linux
 Level: Very Easy
-Skills: FTP, Anonymous Access
+Skills: FTP
+tags: [linux, ftp]
 ---
 # 🦌 Fawn
 

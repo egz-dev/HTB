@@ -1,3 +1,7 @@
+---
+tags: [ftp]
+---
+
 > **FTP** transfiere archivos sobre TCP en dos canales: **control** (puerto 21) y **datos** (puerto 20 o negociado). Esta guía cubre lo que hemos practicado.
 
 ---

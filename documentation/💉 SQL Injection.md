@@ -1,3 +1,7 @@
+---
+tags: [web, sqli]
+---
+
 > **SQL Injection (SQLi)** is a code injection technique that exploits vulnerabilities in an application's database layer. This guide focuses on what we've actually practiced — the login panel bypass — and the essential fundamentals.
 
 ---

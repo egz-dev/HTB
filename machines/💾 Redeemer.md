@@ -1,7 +1,8 @@
 ---
 OS: Linux
 Level: Very Easy
-Skills: Redis, Database Enumeration
+Skills: Redis
+tags: [linux, database, redis]
 ---
 # 💾 Redeemer
 

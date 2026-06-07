@@ -2,6 +2,7 @@
 OS: Linux
 Level: Very Easy
 Skills: SQL Injection, Gobuster
+tags: [linux, web, sqli]
 ---
 # 📅 Appointment
 

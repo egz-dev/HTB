@@ -2,6 +2,7 @@
 OS: Linux
 Level: Very Easy
 Skills: Rsync
+tags: [linux, rsync]
 ---
 # 🔄 Synced
 

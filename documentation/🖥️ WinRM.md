@@ -1,3 +1,7 @@
+---
+tags: [windows, windows-tools]
+---
+
 > **WinRM (Windows Remote Management)** es el protocolo de Microsoft para administración remota de sistemas Windows. Usa SOAP sobre HTTP/HTTPS en **puerto 5985** (HTTP) y **5986** (HTTPS). Esta guía cubre lo que hemos practicado: obtener shell con NetExec y Evil-WinRM cuando ya tenemos credenciales.
 
 ---

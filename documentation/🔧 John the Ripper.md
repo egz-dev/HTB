@@ -1,3 +1,7 @@
+---
+tags: [cracking]
+---
+
 > **John the Ripper (JtR)** es una herramienta de cracking de contraseñas que soporta cientos de formatos de hash. Esta guía cubre lo que hemos practicado: crackear hashes NTLMv2 capturados con Responder.
 
 ---

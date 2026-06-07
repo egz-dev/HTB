@@ -1,7 +1,8 @@
 ---
 OS: Windows
 Level: Very Easy
-Skills: SMB, Null Session, Anonymous Access
+Skills: SMB
+tags: [windows, smb]
 ---
 # 🩰 Dancing
 

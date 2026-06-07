@@ -1,3 +1,7 @@
+---
+tags: [web]
+---
+
 > **Gobuster** es una herramienta de fuerza bruta de directorios, archivos y virtual hosts escrita en Go. Es la herramienta más usada en CTFs para descubrir endpoints ocultos en servidores web. Esta guía cubre lo que hemos practicado.
 
 ---

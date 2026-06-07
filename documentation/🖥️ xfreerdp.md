@@ -1,3 +1,7 @@
+---
+tags: [windows, rdp, windows-tools]
+---
+
 > **xfreerdp** es el cliente RDP open-source del proyecto FreeRDP. Se conecta a hosts Windows en **puerto 3389**. Esta guía cubre lo que hemos practicado.
 
 ---

@@ -1,3 +1,7 @@
+---
+tags: [rsync]
+---
+
 > **Rsync** (Remote Sync) es una herramienta de sincronización de archivos que corre en **puerto 873**. Es común encontrar mala configuración de **acceso anónimo** a directorios compartidos (módulos). Esta guía cubre lo que hemos practicado.
 
 ---

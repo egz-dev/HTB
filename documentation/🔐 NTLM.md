@@ -1,3 +1,7 @@
+---
+tags: [windows, cracking]
+---
+
 > **NTLM (NT LAN Manager)** es un protocolo de autenticación challenge-response usado en entornos Windows. Esta guía cubre lo que hemos practicado: captura de hashes NTLMv2 con Responder y cracking con John the Ripper.
 
 ---

@@ -1,3 +1,7 @@
+---
+tags: [database, mongodb]
+---
+
 > **MongoDB** es una base de datos NoSQL de documentos que corre en **puerto 27017**. Por defecto no tiene autenticación, lo que la convierte en un objetivo de alto valor para exfiltración de datos en CTFs. Esta guía cubre lo que hemos practicado.
 
 ---

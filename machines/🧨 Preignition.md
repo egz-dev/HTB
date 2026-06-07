@@ -1,7 +1,8 @@
 ---
 OS: Linux
 Level: Very Easy
-Skills: Gobuster, Default Credentials, Web Enumeration
+Skills: Gobuster
+tags: [linux, web]
 ---
 # 🧨 Preignition
 

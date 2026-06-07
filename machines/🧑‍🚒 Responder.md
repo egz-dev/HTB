@@ -1,7 +1,8 @@
 ---
 OS: Windows
 Level: Very Easy
-Skills: LFI, RFI, Responder, NTLMv2 Cracking, John the Ripper, WinRM, NetExec
+Skills: LFI & RFI, NTLM, John the Ripper, WinRM
+tags: [windows, web, lfi, cracking]
 ---
 # 🧑‍🚒 Responder
 

@@ -1,3 +1,7 @@
+---
+tags: [web, lfi]
+---
+
 > **Local File Inclusion (LFI)** y **Remote File Inclusion (RFI)** son vulnerabilidades web que permiten incluir archivos del sistema de archivos del servidor (LFI) o de URLs remotas (RFI) manipulando input del usuario. Esta guía se enfoca en lo que hemos practicado: path traversal básico y la cadena LFI → Responder → NTLMv2 → WinRM.
 
 ---
